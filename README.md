@@ -2,7 +2,7 @@
 
 Game RPG berbasis terminal untuk tugas mata kuliah OOP.
 
-**Nama:** (isi nama) | **NIM:** (isi NIM)
+**Nama:** Galang Putra Maulana | **NIM:** 14012500150
 
 ## Cara menjalankan
 ```bash
